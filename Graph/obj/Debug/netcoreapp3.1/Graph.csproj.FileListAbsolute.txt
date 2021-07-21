@@ -1,0 +1,16 @@
+D:\VisualStudioProjects\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.exe
+D:\VisualStudioProjects\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.deps.json
+D:\VisualStudioProjects\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.json
+D:\VisualStudioProjects\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.runtimeconfig.dev.json
+D:\VisualStudioProjects\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.dll
+D:\VisualStudioProjects\Graph\Graph\bin\Debug\netcoreapp3.1\Graph.pdb
+D:\VisualStudioProjects\Graph\Graph\bin\Debug\netcoreapp3.1\GraphCore.dll
+D:\VisualStudioProjects\Graph\Graph\bin\Debug\netcoreapp3.1\GraphCore.pdb
+D:\VisualStudioProjects\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.AssemblyInfo.cs
+D:\VisualStudioProjects\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.csproj.CopyComplete
+D:\VisualStudioProjects\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.dll
+D:\VisualStudioProjects\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.pdb
+D:\VisualStudioProjects\Graph\Graph\obj\Debug\netcoreapp3.1\Graph.genruntimeconfig.cache

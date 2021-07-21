@@ -1,0 +1,9 @@
+D:\VisualStudioProjects\Graph\AdfacencyMatrixGraph\bin\Debug\netstandard2.0\GraphCore.deps.json
+D:\VisualStudioProjects\Graph\AdfacencyMatrixGraph\bin\Debug\netstandard2.0\GraphCore.dll
+D:\VisualStudioProjects\Graph\AdfacencyMatrixGraph\bin\Debug\netstandard2.0\GraphCore.pdb
+D:\VisualStudioProjects\Graph\AdfacencyMatrixGraph\obj\Debug\netstandard2.0\GraphCore.csprojAssemblyReference.cache
+D:\VisualStudioProjects\Graph\AdfacencyMatrixGraph\obj\Debug\netstandard2.0\GraphCore.AssemblyInfoInputs.cache
+D:\VisualStudioProjects\Graph\AdfacencyMatrixGraph\obj\Debug\netstandard2.0\GraphCore.AssemblyInfo.cs
+D:\VisualStudioProjects\Graph\AdfacencyMatrixGraph\obj\Debug\netstandard2.0\GraphCore.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\Graph\AdfacencyMatrixGraph\obj\Debug\netstandard2.0\GraphCore.dll
+D:\VisualStudioProjects\Graph\AdfacencyMatrixGraph\obj\Debug\netstandard2.0\GraphCore.pdb
